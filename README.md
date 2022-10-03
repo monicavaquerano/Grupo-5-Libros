@@ -1,5 +1,7 @@
 # FSJ-4 Grupo N° 5-Libros: Colección de libros
 
+![Sitio web colección de libros](indice.png)
+
 Proyecto de grupo sobre base de datos, HTML y CSS
 
 ## Link del proyecto:
