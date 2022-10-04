@@ -11,6 +11,9 @@ https://github.com/monicavaquerano/Grupo-5-Libros
 
 [Click aquí para ir directamente al archivo de la base de datos](libro_db.sql)
 
+## Proyecto
+
+El proyecto se encuentra en la carpeta llamada "Grupo #5 - Libros"
 
 ## Integrantes:
 1. Alejandra Naranjo Víquez #22
