@@ -38,4 +38,9 @@ El proyecto se encuentra en la carpeta llamada "Grupo #5 - Libros"
  
 ## Licencia 📄
 MIT Public License v3.0
+<br>
 No puede usarse comencialmente.
+<br>
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
+
